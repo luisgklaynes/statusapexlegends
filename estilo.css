@@ -1,8 +1,8 @@
 body {
     font-family: "Roboto Mono", monospace;
     text-align: center;
-    background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-04-aluraflix-e-filmes.png");
-    background-color: #000000;
+    background-image: url("https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/apex-legends-emergence-patch-notes-thumbnail.jpg.adapt.crop191x100.628p.jpg");
+    background-color: #ffffff;
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -14,7 +14,7 @@ body {
   }
   
   .page-title {
-    color: #ffffff;
+    color: #fff1f1;
     margin: 0 0 5px;
   }
   
